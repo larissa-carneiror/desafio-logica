@@ -1,6 +1,6 @@
 // Declarando variáveis
 let nomeHeroi = "Capitão América "
-let xpHeroi = 5000
+let xpHeroi = 10001
 let nivel = ""
 
 // Implementando o if, else if
